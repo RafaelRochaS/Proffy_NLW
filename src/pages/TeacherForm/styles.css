@@ -125,6 +125,10 @@
         margin-top: 0 !important;
     }
 
+    #page-teacher-form main .schedule-item + .schedule-item {
+        margin-top: 1.4rem;
+    }
+
     #page-teacher-form main footer {
         padding: 4.0rem 6.4rem;
         display: flex;
